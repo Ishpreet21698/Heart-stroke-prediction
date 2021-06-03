@@ -1,1 +1,1 @@
-# Heart-stroke-prediction
+# Stroke_Prediction
